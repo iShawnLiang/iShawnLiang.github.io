@@ -6,6 +6,10 @@
     "singlePage":["about"],
     "email":"hi@shawn.es",
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>",
+	"UTC":8,
+	"themeMode":"manual",
+	"dayTheme":"light",
+	"nightTheme":"dark_colorblind",
     "GMEEK_VERSION":"last"
     
 }
