@@ -1,3 +1,3 @@
 我是 Meng
-这是我的草稿箱 meng.ee
-联系我 hi@meng.ee
+meng.ee 是我的日记/随笔/草稿/妄想
+联系 hi@meng.ee
