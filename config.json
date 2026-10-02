@@ -1,7 +1,7 @@
 {
     "title":"梦里看花",
     "subTitle":"Meng's blog",
-    "homeUrl":"https://meng.ee",
+    "homeUrl":"https://iShawnLiang.github.io",
     "avatarUrl":"https://avatars.githubusercontent.com/u/207502780?s=400&u=e5aa0e585e70f61faf4866390daaabbd6be0bedc&v=4",
     "singlePage":["about","link"],
     "email":"hi@meng.ee",
@@ -10,7 +10,7 @@
 	"themeMode":"manual",
 	"dayTheme":"light",
 	"nightTheme":"dark_colorblind",
-	"bottomText":"内容仅供参考不构成任何专业建议|作者不承担任何责任",
+	"bottomText":"免责声明：作者不承担任何责任",
     "GMEEK_VERSION":"last"
     
 }
